@@ -23,11 +23,11 @@ You need to install Tensorflow (preferred 2.9.0) and some basic libraries includ
 ### 3.1. Datasets
 The datasets can be downloaded from the following links. We follow the training and testing data similar to the previous methods.
 
-Option 1: Download from Google drive of an existing SOD Method ([UCNet](https://github.com/JingZhang617/UCNet)): [Click here](https://drive.google.com/file/d/1zslnkJaD_8h3UjxonBz0ESEZ2eguR_Zi/view)
+Option 1: Download FD dataset from given link: [Click here](http://www.nnmtl.cn/EFDNet/)
 
-Option 2: Download from GitHub of existing SOD Method (D3Net): [Click here](https://github.com/DengPingFan/D3NetBenchmark/blob/master/README.md)
+Option 2: Download Foggia's dataset from given link: [Click here](https://mivia.unisa.it/datasets/video-analysis-datasets/fire-detection-dataset/)
 
-Option 3: Follow a dedicated GitHub page for SOD datasets: [Click here](https://github.com/GrassBro/SODdataset)
+Option 3: Download BowFire's dataset from given link: [Click here](https://bitbucket.org/gbdi/bowfire-dataset/downloads/)
 
 ### 3.2. Training and Testing
 Run train.py (current training code supports RGB-D dataset training, you can request for RGB as well or tune the code yourself)
