@@ -8,7 +8,7 @@ Optimized Dual Fire Attention Network and Medium-Scale Fire Classification Bench
 
 This paper has been accepted to IEEE Transactions on Image Processing
 
-To download the framework: [saliency framework.pdf](https://github.com/tanveer-hussain/EfficientSOD2/files/9146609/saliency.framework.pdf)
+To download the framework: [DFAN.pdf]()
 
 ### 1. Paper Links
 ArXiv: https://arxiv.org/abs/2204.06788
@@ -16,7 +16,7 @@ ArXiv: https://arxiv.org/abs/2204.06788
 CVPRW: https://openaccess.thecvf.com/content/CVPR2022W/FaDE-TCV/papers/Hussain_Pyramidal_Attention_for_Saliency_Detection_CVPRW_2022_paper.pdf
 
 ## 2. Setup
-You need to install Pytorch (preferred 1.7.1) and some basic libraries including PIL, cv2, numpy, etc.
+You need to install Tensorflow (preferred 2.9.0) and some basic libraries including PIL, cv2, numpy, etc.
 
 ## 3. How to Train?
 
