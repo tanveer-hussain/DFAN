@@ -30,9 +30,7 @@ Option 2: Download Foggia's dataset from given link: [Click here](https://mivia.
 Option 3: Download BowFire's dataset from given link: [Click here](https://bitbucket.org/gbdi/bowfire-dataset/downloads/)
 
 ### 3.2. Training and Testing
-Run train.py (current training code supports RGB-D dataset training, you can request for RGB as well or tune the code yourself)
-
-In the training code, there is function call to the testing code which then evaluates the model's performance and stores the results in corresponding folders.
+Run train.py ()
 
 ### 4. Qualitative Results
 
@@ -57,18 +55,18 @@ Please read and cite our following papers on Fire Detection if you like our work
 </pre>
 
 <pre>
-<code>@misc{hussain2021densely,
-      title={Densely Deformable Efficient Salient Object Detection Network}, 
-      author={Tanveer Hussain and Saeed Anwar and Amin Ullah and Khan Muhammad and Sung Wook Baik},
-      year={2021},
-      eprint={2102.06407},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+<code>@article{yar2021fire,
+  title={Fire Detection via Effective Vision Transformers},
+  author={Yar, Hikmat and Hussain, Tanveer and Khan, Zulfiqar Ahmad and Lee, Mi Young and Baik, Sung Wook},
+  journal={The Journal of Korean Institute of Next Generation Computing},
+  volume={17},
+  number={5},
+  pages={21--30},
+  year={2021}
 }</code>
 </pre>
 
-Some of the functions in codes are inspired by [UCNet](https://github.com/JingZhang617/UCNet) GitHub repository. The authors are thankful for their nice and explained SOD GitHub page.
 
 ## 6. Contact
-I would be happy to guide and assist in case of any questions and I am open to research discussions and collaboration in Saliency Detection domain. Ping me at tanveer445 [at] [ieee] [.org]
+I would be happy to guide and assist in case of any questions and I am open to research discussions and collaboration in Fire Detection domain. Ping me at tanveer445 [at] [ieee] [.org]
 
