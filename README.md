@@ -11,10 +11,9 @@ This paper has been accepted to IEEE Transactions on Image Processing
 To download the framework: [DFAN.pdf]()
 
 ### 1. Paper Links
-ArXiv: https://arxiv.org/abs/2204.06788
 
-CVPRW: https://openaccess.thecvf.com/content/CVPR2022W/FaDE-TCV/papers/Hussain_Pyramidal_Attention_for_Saliency_Detection_CVPRW_2022_paper.pdf
 
+IEEE-TIP: 
 ## 2. Setup
 You need to install Tensorflow (preferred 2.9.0) and some basic libraries including PIL, cv2, numpy, etc.
 
