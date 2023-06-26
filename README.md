@@ -31,9 +31,6 @@ Option 2: Download Foggia's dataset from given link: [Click here](https://mivia.
 
 Option 3: Download BowFire's dataset from given link: [Click here](https://bitbucket.org/gbdi/bowfire-dataset/downloads/)
 
-### 3.2. Training and Testing
-Run train.py ()
-
 ### 4. Qualitative Results
 
 ### 5. Quantitative Results
