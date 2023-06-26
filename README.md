@@ -16,8 +16,11 @@ https://ieeexplore.ieee.org/abstract/document/9898909
 IEEE-TIP: 
 ## 2. Setup
 You need to install Tensorflow (preferred 2.9.0) and some basic libraries including PIL, cv2, numpy, etc.
+For installation used 
+pip install -r requirements.txt
 
 ## 3. How to Train?
+In the repository, the DFAN.ipynb file is used to train the orignal DFAN model, where the Attention_mechanism_with_InceptionV3_github_compress_de is used for compress version. 
 
 ### 3.1. Datasets
 The datasets can be downloaded from the following links. We follow the training and testing data similar to the previous methods.
