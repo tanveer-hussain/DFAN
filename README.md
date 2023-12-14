@@ -44,26 +44,43 @@ Please read and cite our following papers on Fire Detection if you like our work
 
 <pre>
 <code>
-@article{yar2021vision,
-  title={Vision sensor-based real-time fire detection in resource-constrained IoT environments},
-  author={Yar, Hikmat and Hussain, Tanveer and Khan, Zulfiqar Ahmad and Koundal, Deepika and Lee, Mi Young and Baik, Sung Wook},
-  journal={Computational intelligence and neuroscience},
-  volume={2021},
-  year={2021},
-  publisher={Hindawi}
+@article{yar2022optimized,
+  title={Optimized dual fire attention network and medium-scale fire classification benchmark},
+  author={Yar, Hikmat and Hussain, Tanveer and Agarwal, Mohit and Khan, Zulfiqar Ahmad and Gupta, Suneet Kumar and Baik, Sung Wook},
+  journal={IEEE Transactions on Image Processing},
+  volume={31},
+  pages={6331--6343},
+  year={2022},
+  publisher={IEEE}
 }
 }</code>
 </pre>
 
 <pre>
-<code>@article{yar2021fire,
-  title={Fire Detection via Effective Vision Transformers},
-  author={Yar, Hikmat and Hussain, Tanveer and Khan, Zulfiqar Ahmad and Lee, Mi Young and Baik, Sung Wook},
-  journal={The Journal of Korean Institute of Next Generation Computing},
-  volume={17},
-  number={5},
-  pages={21--30},
-  year={2021}
+<code>
+@article{yar2023modified,
+  title={A modified YOLOv5 architecture for efficient fire detection in smart cities},
+  author={Yar, Hikmat and Khan, Zulfiqar Ahmad and Ullah, Fath U Min and Ullah, Waseem and Baik, Sung Wook},
+  journal={Expert Systems with Applications},
+  volume={231},
+  pages={120465},
+  year={2023},
+  publisher={Elsevier}
+}
+}</code>
+</pre>
+
+<pre>
+<code>
+  @article{yar2023effective,
+  title={An Effective Attention-based CNN Model for Fire Detection in Adverse Weather Conditions},
+  author={Yar, Hikmat and Ullah, Waseem and Khan, Zulfiqar Ahmad and Baik, Sung Wook},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={206},
+  pages={335--346},
+  year={2023},
+  publisher={Elsevier}
+}
 }</code>
 </pre>
 
