@@ -30,6 +30,7 @@ Option 1: Download FD dataset from given link: [Click here](http://www.nnmtl.cn/
 Option 2: Download Foggia's dataset from given link: [Click here](https://mivia.unisa.it/datasets/video-analysis-datasets/fire-detection-dataset/)
 
 Option 3: Download BowFire's dataset from given link: [Click here](https://bitbucket.org/gbdi/bowfire-dataset/downloads/)
+Option 4: The proposed DFAN dataset [Click here](https://drive.google.com/file/d/10z998vuTzkNJElZdsSDrbIDpRWJ4aZoo/view?usp=drive_link)
 
 ### 4. Qualitative Results
 
