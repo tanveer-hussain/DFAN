@@ -86,5 +86,5 @@ Please read and cite our following papers on Fire Detection if you like our work
 
 
 ## 6. Contact
-I would be happy to guide and assist in case of any questions and I am open to research discussions and collaboration in Fire Detection domain. Ping me at tanveer445 [at] [ieee] [.org]
+I would be happy to guide and assist in case of any questions and I am open to research discussions and collaboration in Fire Detection domain. Ping me at htanveer3797 [at] [gmail] [.com]
 
