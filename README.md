@@ -25,9 +25,16 @@ In the repository, the DFAN.ipynb file is used to train the orignal DFAN model, 
 ### 3.1. Datasets
 The datasets can be downloaded from the following links. We follow the training and testing data similar to the previous methods.
 
-Option 1: Download Animal Sound Classification (EmreSasmaz) dataset from given link: [Click here]([http://www.nnmtl.cn/EFDNet/](https://github.com/emresasmaz/Animal-Sound-Classification-Using-A-Convolutional-Neural-Network))
 
-Option 2: Download AVRNet dataset from given link: [Click here](We be Published Soon, After the acceptance of the paper or with reasonble request from the authors)
+Option 1: Download FD dataset from given link: [Click here](http://www.nnmtl.cn/EFDNet/)
+
+Option 2: Download Foggia's dataset from given link: [Click here](https://mivia.unisa.it/datasets/video-analysis-datasets/fire-detection-dataset/)
+
+
+Option 3: Download BowFire's dataset from given link: [Click here](https://drive.google.com/file/d/1g1db4Z6OQTBlngnxXVpF2rd22vHGZwc7/view?usp=drive_link) (Recommended to use batchsize of 8 during training)
+
+Option 4: The proposed DFAN dataset [Click here](https://drive.google.com/file/d/10z998vuTzkNJElZdsSDrbIDpRWJ4aZoo/view?usp=drive_link)
+
 
 
 ### 4. Qualitative Results
